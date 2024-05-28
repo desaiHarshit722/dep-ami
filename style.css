@@ -131,6 +131,12 @@
 .section1 p a{
     text-decoration: none;
 }
+.section2 p a{
+    text-decoration: none;
+}
+.section3 p a{
+    text-decoration: none;
+}
 .section2{
     padding: 53px;
 }
